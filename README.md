@@ -140,7 +140,6 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
-#project                                                                                                       Project Leader<br/>
+                                                                                                      Project Leader<br/>
 #check                                                                                                        <b>Shashi Raj</b>
 #webhook
-#hello
